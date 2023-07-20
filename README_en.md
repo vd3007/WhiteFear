@@ -1,9 +1,13 @@
 [**中文**](./README.md) | [**English**](./README_en.md)
 # WhiteFear
 ### Description
-利用[**Android Studio**](https://developer.android.com/studio)去做出類似於[**Find The Invisible Cow**](https://findtheinvisiblecow.com/)的遊戲，命名為【**白色恐懼**】。  
-遊戲有分兩種不同的模式：**計時**與**計次**模式。  
-* 計次模式：每找到一次目標後，玩家可以自行選擇**繼續遊戲**或是**前往結算**  
-* 計時模式：自行選定時間後開始倒數計時，遊玩中僅能看到點擊次數，成績僅在結算畫面顯示  
-於結算頁面可以選擇**返回**或是**結束遊戲**。  
+Using [**Android Studio**](https://developer.android.com/studio) to make a game similar to [**Find The Invisible Cow**](https://findtheinvisiblecow.com/)，Named as 《**White Fear**》.  
+This game has two different mode: **Timing** and **Count** mode.  
+* Count mode：After founding the target everytime, player can choose **continued game** or **End Game** by themselves.  
+* Timing mode：Time will start countdown after choosing the game duration, player could only see the number of clicks while gameplay，score will only show at settlement page.  
+In settlement page could choose **return game** or **end game**.
+**The photos and audios in this game is all free,no-copyright source or own by myself.**  
 ### Results
+![](/Start.png)
+![](/Gameplay.png)
+![](/FinalPage.png)
